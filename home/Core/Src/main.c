@@ -93,7 +93,7 @@ int main(void)
   {
     /* USER CODE END WHILE */
 
-    /* USER CODE BEGIN 3 */
+    /* led green blink 0.5 seconde */
 	  HAL_GPIO_TogglePin(GPIOB, LD1_Pin);
 	  HAL_Delay(500);
 
