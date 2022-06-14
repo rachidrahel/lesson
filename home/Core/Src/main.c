@@ -72,7 +72,7 @@ static void MX_USB_OTG_FS_PCD_Init(void);
 int main(void)
 {
   /* USER CODE BEGIN 1 */
-
+	  /* USER CODE END 1 */
   /* USER CODE END 1 */
 
   /* MCU Configuration--------------------------------------------------------*/
