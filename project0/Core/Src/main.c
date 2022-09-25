@@ -114,7 +114,7 @@ int main(void)
     /* USER CODE END WHILE */
 	  printf("trading 1 million dollar ");
 	  HAL_Delay(10);
-
+// trun led green on
 
 
     /* USER CODE BEGIN 3 */
